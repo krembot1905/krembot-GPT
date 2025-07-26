@@ -1,0 +1,7 @@
+{
+    "bot_name": "krembot-GPT",
+    "webhook_url": "https://your-wunder-webhook-url",
+    "symbol": "INJUSDT",
+    "timeframe": "15m",
+    "trade_amount": 50
+}
